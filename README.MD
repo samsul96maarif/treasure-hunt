@@ -1,6 +1,6 @@
-#Treasure Hunt
+# Treasure Hunt
 
-##Deksripsi
+## Deksripsi
 1. symbols:
    1. '#' represent an obstacle.
    2. . represent an clear path.
@@ -13,13 +13,13 @@
 4. The program must output a list of probable coordinate points where the treasure might be located.
 5. Bonus points: display the grid with all the probable treasure locations marked with a $ symbol.
 
-##Requirement
+## Requirement
 1. python3
 
-##Tutorial
+## Tutorial
 1. jalankan "python3 main.py"
 
-##Note
+## Note
 1. Karena pada deskripsi task tidak ada navigasi untuk ke kiri, maka permainan ini dibuat dengan 2 mode:
    1. strict mode, yaitu lokasi rintangan fix sesuai deskripsi task, dan navigasi tidak bisa ke kiri
    2. non strict mode, yaitu lokasi rintangan akan dirandom, dan navigasi bisa ke semua arah
