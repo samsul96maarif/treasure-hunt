@@ -2,7 +2,7 @@
 
 ##Deksripsi
 1. symbols:
-   1. # represent an obstacle.
+   1. '#' represent an obstacle.
    2. . represent an clear path.
    3. x represent the player's starting position.
 2. A treasure is hidden within one of the clear path points, and the user must find it.
